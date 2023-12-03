@@ -1,7 +1,7 @@
 # Sorting Algorithm Visualiser
 
 **Tech Stack:** Python, PyGame Lib, Sorting Algorithms
-* Developed a **Desktop Aapplication** to **Visualize Various Sorting Algorithms**, Can Be useed to **Teach Internal Working** of Sorting Algorithms 
+* Developed a **Desktop Aapplication** to **Visualize Various Sorting Algorithms**, Can Be used to **Teach Internal Working** of Sorting Algorithms 
 * Sorting Algorithms include Bubble Sort, Insertion Sort, **Merge Sort**, **Quick Sort** were Implimented
 
 ## screenshots
